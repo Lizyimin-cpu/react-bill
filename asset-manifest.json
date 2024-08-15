@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Lizyimin-cpu/react-bill.git/static/css/main.2bf9054a.css",
-    "main.js": "/Lizyimin-cpu/react-bill.git/static/js/main.d09284b4.js",
-    "index.html": "/Lizyimin-cpu/react-bill.git/index.html",
-    "main.2bf9054a.css.map": "/Lizyimin-cpu/react-bill.git/static/css/main.2bf9054a.css.map",
-    "main.d09284b4.js.map": "/Lizyimin-cpu/react-bill.git/static/js/main.d09284b4.js.map"
+    "main.css": "/react-bill/static/css/main.2bf9054a.css",
+    "main.js": "/react-bill/static/js/main.d09284b4.js",
+    "index.html": "/react-bill/index.html",
+    "main.2bf9054a.css.map": "/react-bill/static/css/main.2bf9054a.css.map",
+    "main.d09284b4.js.map": "/react-bill/static/js/main.d09284b4.js.map"
   },
   "entrypoints": [
     "static/css/main.2bf9054a.css",
