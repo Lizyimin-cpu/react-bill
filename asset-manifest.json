@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-bill/static/css/main.2bf9054a.css",
-    "main.js": "/react-bill/static/js/main.b8c5eba4.js",
+    "main.js": "/react-bill/static/js/main.9e465951.js",
     "index.html": "/react-bill/index.html",
     "main.2bf9054a.css.map": "/react-bill/static/css/main.2bf9054a.css.map",
-    "main.b8c5eba4.js.map": "/react-bill/static/js/main.b8c5eba4.js.map"
+    "main.9e465951.js.map": "/react-bill/static/js/main.9e465951.js.map"
   },
   "entrypoints": [
     "static/css/main.2bf9054a.css",
-    "static/js/main.b8c5eba4.js"
+    "static/js/main.9e465951.js"
   ]
 }
